@@ -1,8 +1,8 @@
 - Hello there 👋
 - I’m Daniel Ashraf 
 - I study computer engineering
-- I'm the second on my class with GPA: 3.9
-- I'll gradute in july 2021 :smile:
+- I'm the second on my class with GPA: 3.909
+- Gradution year: 2021 :smile:
 - These days I'm building apps by flutter :heart:
 - Familiar with HTML, CSS, Bootstrap 
 - Familiar with arduino and how to code it 
