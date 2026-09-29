@@ -340,7 +340,7 @@ I'm interested in opportunities involving:
 
 I'm particularly interested in working on systems where I can contribute not only to implementation, but also to **architecture, technical decisions, performance improvements, and engineering practices**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-ashraf-ba2a58212)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ashraf-ba2a58212)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.ashraf2018@gmail.com)
 
 ---
